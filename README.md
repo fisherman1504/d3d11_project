@@ -1,4 +1,7 @@
 # Basic D3D11 Renderer (WIP)
+[![C++](https://img.shields.io/badge/language-C%2B%2B-blue.svg)](https://www.cplusplus.com/)
+[![Direct3D 11](https://img.shields.io/badge/Direct3D-11-red.svg)](https://learn.microsoft.com/en-us/windows/graphics/direct3d)
+![GitHub stars](https://img.shields.io/github/stars/fisherman1504/d3d11_project?style=flat-square)
 [![License](https://img.shields.io/github/license/fisherman1504/d3d11_project?style=flat-square)](LICENSE.txt)
 
 A basic D3D11 renderer that acts as my personal playground for testing out several graphics concepts:
