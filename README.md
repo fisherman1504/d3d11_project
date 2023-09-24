@@ -54,7 +54,7 @@ Vertex Normals             |  Normal Mapping
 
 TODOs
 -------
-Add volumetric clouds from a previous OpenGL project:
+Add volumetric clouds from one of my previous OpenGL projects:
 <table style="width: 100%;">
   <tr>
     <td align="center">Application</td>
