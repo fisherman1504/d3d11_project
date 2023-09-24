@@ -93,6 +93,7 @@ Other Details
 -------
 * Light camera frustum is adaptive to view camera frustum (always fully covered)
 * Normals are getting encoded/decoded to Octahedron-normal vectors.
+* 10x buffering for GPU profiler
 
 Built And Tested With
 -------
