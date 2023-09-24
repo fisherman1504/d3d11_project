@@ -1,0 +1,7 @@
+# Faces are ordered as follows: positive-x, negative-x, positive-y, negative-y, positive-z, negative-z.
+right.jpg
+left.jpg
+top.jpg
+bottom.jpg
+front.jpg
+back.jpg

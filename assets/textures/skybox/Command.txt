@@ -1,0 +1,2 @@
+# Using https://github.com/microsoft/DirectXTex/wiki/Texassemble
+texassemble cube -o cubemap.dds -flist files.txt
