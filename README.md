@@ -1,4 +1,4 @@
-# Basic D3D11 Renderer.
+# Basic D3D11 Renderer
 [![License](https://img.shields.io/github/license/fisherman1504/render_project?style=flat-square)](LICENSE.txt)
 
 A basic D3D11 renderer that acts as my personal playground for testing out several graphics concepts:
